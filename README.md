@@ -20,3 +20,7 @@ Kaoru Ishikawa-> -Desarrollo la estrategia de Calidad en Japón
                  -Influenció el enfoque participativo de todos los trabajadores (Ejemplo del portero y el gerente saludando)
                  
 
+Cliente: Cualquier persona a la cual le otorgo un servicio
+
+Herramientas Basicas de la calidad Si o si en la prueba (son 7)
+
